@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🩸
 
 I'm **Zloty**, a junior data analyst based in Poland.
 
