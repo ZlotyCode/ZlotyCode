@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**ZlotyCode/ZlotyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Zloty**, a junior data analyst based in Poland.
 
-Here are some ideas to get you started:
+I turn messy data into actionable insights and beautiful visualizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If there is a pattern hidden in the noise, chances are I'll find it and build a pipeline for it.
+
+My main tech stack is **python, sql, statistics, and pandas**. My favorite tools are **looker studio, google tag manager, and seaborn**.
+
+I've got a bunch of pinned projects below, ranging from deep exploratory data analysis (EDA) to regression modeling.
+
+If you want to see how I approach data, [my repositories](https://github.com/ZlotyCode?tab=repositories) are available here!
+
+**Fun Facts:**
+* I speak English, Polish, and Russian (C1 level for all)
