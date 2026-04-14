@@ -1,6 +1,6 @@
 ## Hi there 🩸
 
-I'm **Zloty**, a junior data analyst based in Russia.
+I'm **Zloty**, a junior data analyst based in Poland.
 
 I turn messy data into actionable insights and beautiful visualizations.
 
