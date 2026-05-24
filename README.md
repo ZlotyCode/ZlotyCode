@@ -13,4 +13,4 @@ I've got a bunch of pinned projects below, ranging from deep exploratory data an
 If you want to see how I approach data, [my repositories](https://github.com/ZlotyCode?tab=repositories) are available here!
 
 **Fun Facts:**
-* I speak English, Polish, and Russian (C1 level for all)
+* I speak English(B2), Polish(B2), and Russian(Native)
